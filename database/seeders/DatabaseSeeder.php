@@ -21,7 +21,7 @@ class DatabaseSeeder extends Seeder
             'password' => '$2y$12$4EqxXofhwWY/OZbMxMnJTuADG5d8.kxlS1cTfLHgg8YMWu69UF1h6',  //123456
             'role' => 'SuperAdmin',
             'status' => '0', // true = 0 , false = 1
-            'staffid' => '1'
+            'staffId' => '1'
         ]);
     }
 }
